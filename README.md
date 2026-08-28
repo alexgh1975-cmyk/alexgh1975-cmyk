@@ -1,3 +1,4 @@
+<img width="896" height="1195" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/ce31029f-45d6-4b6e-9e8a-1e500e11781d" />
 # Perfil de Alejandro García
 
 <!--
