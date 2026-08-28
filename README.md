@@ -64,5 +64,3 @@ Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta 
 * **Curiosidades**: Implementación de pequeños scripts interactivos o utilidades divertidas basadas en librerías estándar.
 </details>
 
-
-![Python](https://shields.io)
