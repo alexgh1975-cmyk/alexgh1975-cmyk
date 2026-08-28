@@ -2,12 +2,6 @@
 
 <img width="222" height="300" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
 
-
-![SQL](https://shields.io)
-![Terminal](https://shields.io)
-![Python](https://shields.io)
-![GitHub](https://shields.io)
-<!--
 **alexgh1975-cmyk/alexgh1975-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
