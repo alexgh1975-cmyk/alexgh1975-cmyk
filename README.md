@@ -1,5 +1,3 @@
-![SQL](https://shields.io)
-
 # Perfil de Alejandro García
 
 <img width="222" height="300" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
