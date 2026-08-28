@@ -63,3 +63,6 @@ Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta 
 * **Pensamiento lateral**: Soluciones de código creativas que rompen con los esquemas tradicionales.
 * **Curiosidades**: Implementación de pequeños scripts interactivos o utilidades divertidas basadas en librerías estándar.
 </details>
+
+
+![Python](https://shields.io)
