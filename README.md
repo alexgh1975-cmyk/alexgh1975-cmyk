@@ -1,6 +1,6 @@
 # Perfil de Alejandro García
 
-<img width="89" height="119" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
+<img width="450" height="598" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
 
 <!--
 **alexgh1975-cmyk/alexgh1975-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
