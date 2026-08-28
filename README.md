@@ -63,11 +63,3 @@ Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta 
 * **Pensamiento lateral**: Soluciones de código creativas que rompen con los esquemas tradicionales.
 * **Curiosidades**: Implementación de pequeños scripts interactivos o utilidades divertidas basadas en librerías estándar.
 </details>
-
-## Cómo Utilizar Este Repositorio
-
-1. Clona el proyecto en tu máquina local:
-   ```bash
-   git clone https://github.com
-   ```
-2. Explora las carpetas correspondientes a cada tecnología para ejecutar los scripts o consultar las bases de datos.
