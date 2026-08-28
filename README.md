@@ -2,16 +2,72 @@
 
 <img width="222" height="300" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
 
-**alexgh1975-cmyk/alexgh1975-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mis Proyectos de Aprendizaje y Automatización
 
-Here are some ideas to get you started:
+Este repositorio compila mis proyectos, scripts y ejercicios prácticos enfocados en la transición digital, el análisis de datos y la automatización aplicada. Aquí organizo el código y los flujos de trabajo desarrollados en diferentes tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Documentación
+
+Despliega cada sección para ver los detalles de los proyectos y comandos incluidos.
+
+<details>
+<summary>📂 SQL</summary>
+
+### Análisis y Gestión de Bases de Datos
+En esta sección incluyo scripts de bases de datos relacionales orientados al análisis de información operativa y toma de decisiones.
+
+* **Consultas complejas**: Filtros avanzados, agrupaciones (`GROUP BY`) y funciones de agregación.
+* **Modelado de datos**: Creación de tablas, uniones (`JOINs`) y diseño de esquemas eficientes.
+* **Optimización**: Queries estructuradas para mejorar los tiempos de respuesta en la extracción de datos.
+</details>
+
+<details>
+<summary>📂 Python</summary>
+
+### Programación y Automatización Scripts
+Espacio dedicado al desarrollo de scripts en Python para procesar datos, automatizar tareas repetitivas y resolver problemas lógicos.
+
+* **Estructuras de datos**: Uso eficiente de listas, diccionarios y tuplas.
+* **Automatización**: Scripts para lectura/escritura de archivos locales y manipulación de datos.
+* **Lógica estructurada**: Implementación de funciones, condicionales y bucles optimizados.
+</details>
+
+<details>
+<summary>📂 Terminal (Linux)</summary>
+
+### Administración del Sistema y CLI
+Comandos esenciales y scripts en entornos GNU/Linux para la gestión del sistema operativo y control de procesos desde la consola.
+
+* **Navegación**: Gestión de directorios y archivos mediante comandos nativos (`cd`, `ls`, `mkdir`, `cp`, `mv`).
+* **Permisos y usuarios**: Control de accesos y seguridad a nivel de sistema (`chmod`, `chown`).
+* **Filtros de texto**: Automatización de búsquedas internas con utilidades como `grep`, `awk` o `sed`.
+</details>
+
+<details>
+<summary>📂 GitHub</summary>
+
+### Control de Versiones y Colaboración
+Historial de buenas prácticas aplicadas al control de versiones de mis proyectos utilizando Git y la plataforma de GitHub.
+
+* **Flujo de trabajo**: Uso de comandos para el ciclo de vida del código (`git init`, `add`, `commit`, `push`).
+* **Ramificación**: Gestión de ramas (`git branch`, `merge`) para mantener un entorno de desarrollo seguro.
+* **Sincronización**: Clonación y actualización de repositorios remotos de manera eficiente.
+</details>
+
+<details>
+<summary>📂 Antigravity</summary>
+
+### Innovación y "Easter Eggs" de Programación
+Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta pestaña está dedicada a proyectos creativos, ideas fuera de la caja o conceptos avanzados.
+
+* **Pensamiento lateral**: Soluciones de código creativas que rompen con los esquemas tradicionales.
+* **Curiosidades**: Implementación de pequeños scripts interactivos o utilidades divertidas basadas en librerías estándar.
+</details>
+
+## Cómo Utilizar Este Repositorio
+
+1. Clona el proyecto en tu máquina local:
+   ```bash
+   git clone https://github.com
+   ```
+2. Explora las carpetas correspondientes a cada tecnología para ejecutar los scripts o consultar las bases de datos.
