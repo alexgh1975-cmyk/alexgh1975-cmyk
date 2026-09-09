@@ -22,39 +22,39 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! 👋 Soy **Alejandro García**, un profesional con una sólida trayectoria en el mundo de la **Gestión Operativa, Logística y Supply Chain**, actualmente inmerso en una apasionante **transformación profesional hacia el Desarrollo Full Stack**[cite: 1].
+¡Hola! 👋 Soy **Alejandro García**, un profesional con una sólida trayectoria en el mundo de la **Gestión Operativa, Logística y Supply Chain**, actualmente inmerso en una apasionante **transformación profesional hacia el Desarrollo Full Stack**.
 
-A lo largo de mi carrera me he desempeñado como **Operations Manager**, **Jefe de Tráfico** y **Responsable de Logística**, gestionando flujos operativos, optimización de procesos, presupuestos y liderazgo de equipos de trabajo[cite: 1]. Mi experiencia abarca desde el análisis estratégico de KPIs y control de stock hasta la implementación de iniciativas operativas e integración de herramientas informáticas (ERP, SGA, GPS)[cite: 1].
+A lo largo de mi carrera me he desempeñado como **Operations Manager**, **Jefe de Tráfico** y **Responsable de Logística**, gestionando flujos operativos, optimización de procesos, presupuestos y liderazgo de equipos de trabajo. Mi experiencia abarca desde el análisis estratégico de KPIs y control de stock hasta la implementación de iniciativas operativas e integración de herramientas informáticas (ERP, SGA, GPS).
 
-Actualmente, aplico toda esta capacidad analítica, de resolución de problemas y gestión de proyectos al ámbito del desarrollo de software, combinando mi visión estratégica de negocio con tecnologías modernas de programación[cite: 1].
+Actualmente, aplico toda esta capacidad analítica, de resolución de problemas y gestión de proyectos al ámbito del desarrollo de software, combinando mi visión estratégica de negocio con tecnologías modernas de programación.
 
 ---
 
 ## 🛠️ Habilidades & Competencias
 
 ### 💼 Operations & Leadership
-* **Gestión de Operaciones & Logística:** Supply Chain, planificación de rutas, gestión de flota, control de stocks e inventarios[cite: 1].
-* **Liderazgo & Optimización:** Gestión y formación de equipos, resolución de incidencias, análisis de KPIs y mejora continua de procesos[cite: 1].
-* **Herramientas de Gestión:** SGA, ERPs, sistemas GPS, MS Project[cite: 1].
+* **Gestión de Operaciones & Logística:** Supply Chain, planificación de rutas, gestión de flota, control de stocks e inventarios
+* **Liderazgo & Optimización:** Gestión y formación de equipos, resolución de incidencias, análisis de KPIs y mejora continua de procesos.
+* **Herramientas de Gestión:** SGA, ERPs, sistemas GPS, MS Project.
 
 ### 💻 Tech & Desarrollo (En constante evolución)
-* **Lenguajes & Bases de Datos:** Python, SQL, Pseudocódigo[cite: 1].
-* **Sistemas & Entorno:** Linux y manejo de terminal[cite: 1].
-* **Estudios Actuales:** Máster Full Stack Developer[cite: 1].
+* **Lenguajes & Bases de Datos:** Python, SQL, Pseudocódigo.
+* **Sistemas & Entorno:** Linux y manejo de terminal.
+* **Estudios Actuales:** Máster Full Stack Developer.
 
 ---
 
 ## 🌐 Idiomas
-* **Español:** Nativo[cite: 1]
-* **Inglés:** Profesional[cite: 1]
+* **Español:** Nativo
+* **Inglés:** Profesional B1
 
 ---
 
 ## 📫 Contacto
 
-* **Ubicación:** Palma de Mallorca, España[cite: 1]
-* **LinkedIn:** [linkedin.com/in/alejandro-garcía-hernández-66975826](https://linkedin.com/in/alejandro-garcía-hernández-66975826)[cite: 1]
-* **Email:** alexgh1975@gmail.com[cite: 1]
+* **Ubicación:** Palma de Mallorca, España
+* **LinkedIn:** [linkedin.com/in/alejandro-garcía-hernández-66975826](https://linkedin.com/in/alejandro-garcía-hernández-66975826)
+* **Email:** alexgh1975@gmail.com
 ### Innovación y "Easter Eggs" de Programación
 Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta pestaña está dedicada a proyectos creativos, ideas fuera de la caja o conceptos avanzados.
 
