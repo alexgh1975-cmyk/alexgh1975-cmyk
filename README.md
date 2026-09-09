@@ -8,61 +8,53 @@
 
 <img width="222" height="300" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
 
-# Mis Proyectos de Aprendizaje y Automatización
+# Portfolio Express
 
-Este repositorio compila mis proyectos, scripts y ejercicios prácticos enfocados en la transición digital, el análisis de datos y la automatización aplicada. Aquí organizo el código y los flujos de trabajo desarrollados en diferentes tecnologías.
+<div align="center">
 
-## Tecnologías y Documentación
+# Alejandro García
 
-Despliega cada sección para ver los detalles de los proyectos y comandos incluidos.
+### *Estudiando Máster como Desarrollador Full Stack*
 
-<details>
-<summary>📂 SQL</summary>
+</div>
 
-### Análisis y Gestión de Bases de Datos
-En esta sección incluyo scripts de bases de datos relacionales orientados al análisis de información operativa y toma de decisiones.
+---
 
-* **Consultas complejas**: Filtros avanzados, agrupaciones (`GROUP BY`) y funciones de agregación.
-* **Modelado de datos**: Creación de tablas, uniones (`JOINs`) y diseño de esquemas eficientes.
-* **Optimización**: Queries estructuradas para mejorar los tiempos de respuesta en la extracción de datos.
-</details>
+## 👨‍💻 Sobre mí
 
-<details>
-<summary>📂 Python</summary>
+¡Hola! 👋 Soy **Alejandro García**, un profesional con una sólida trayectoria en el mundo de la **Gestión Operativa, Logística y Supply Chain**, actualmente inmerso en una apasionante **transformación profesional hacia el Desarrollo Full Stack**[cite: 1].
 
-### Programación y Automatización Scripts
-Espacio dedicado al desarrollo de scripts en Python para procesar datos, automatizar tareas repetitivas y resolver problemas lógicos.
+A lo largo de mi carrera me he desempeñado como **Operations Manager**, **Jefe de Tráfico** y **Responsable de Logística**, gestionando flujos operativos, optimización de procesos, presupuestos y liderazgo de equipos de trabajo[cite: 1]. Mi experiencia abarca desde el análisis estratégico de KPIs y control de stock hasta la implementación de iniciativas operativas e integración de herramientas informáticas (ERP, SGA, GPS)[cite: 1].
 
-* **Estructuras de datos**: Uso eficiente de listas, diccionarios y tuplas.
-* **Automatización**: Scripts para lectura/escritura de archivos locales y manipulación de datos.
-* **Lógica estructurada**: Implementación de funciones, condicionales y bucles optimizados.
-</details>
+Actualmente, aplico toda esta capacidad analítica, de resolución de problemas y gestión de proyectos al ámbito del desarrollo de software, combinando mi visión estratégica de negocio con tecnologías modernas de programación[cite: 1].
 
-<details>
-<summary>📂 Terminal (Linux)</summary>
+---
 
-### Administración del Sistema y CLI
-Comandos esenciales y scripts en entornos GNU/Linux para la gestión del sistema operativo y control de procesos desde la consola.
+## 🛠️ Habilidades & Competencias
 
-* **Navegación**: Gestión de directorios y archivos mediante comandos nativos (`cd`, `ls`, `mkdir`, `cp`, `mv`).
-* **Permisos y usuarios**: Control de accesos y seguridad a nivel de sistema (`chmod`, `chown`).
-* **Filtros de texto**: Automatización de búsquedas internas con utilidades como `grep`, `awk` o `sed`.
-</details>
+### 💼 Operations & Leadership
+* **Gestión de Operaciones & Logística:** Supply Chain, planificación de rutas, gestión de flota, control de stocks e inventarios[cite: 1].
+* **Liderazgo & Optimización:** Gestión y formación de equipos, resolución de incidencias, análisis de KPIs y mejora continua de procesos[cite: 1].
+* **Herramientas de Gestión:** SGA, ERPs, sistemas GPS, MS Project[cite: 1].
 
-<details>
-<summary>📂 GitHub</summary>
+### 💻 Tech & Desarrollo (En constante evolución)
+* **Lenguajes & Bases de Datos:** Python, SQL, Pseudocódigo[cite: 1].
+* **Sistemas & Entorno:** Linux y manejo de terminal[cite: 1].
+* **Estudios Actuales:** Máster Full Stack Developer[cite: 1].
 
-### Control de Versiones y Colaboración
-Historial de buenas prácticas aplicadas al control de versiones de mis proyectos utilizando Git y la plataforma de GitHub.
+---
 
-* **Flujo de trabajo**: Uso de comandos para el ciclo de vida del código (`git init`, `add`, `commit`, `push`).
-* **Ramificación**: Gestión de ramas (`git branch`, `merge`) para mantener un entorno de desarrollo seguro.
-* **Sincronización**: Clonación y actualización de repositorios remotos de manera eficiente.
-</details>
+## 🌐 Idiomas
+* **Español:** Nativo[cite: 1]
+* **Inglés:** Profesional[cite: 1]
 
-<details>
-<summary>📂 Antigravity</summary>
+---
 
+## 📫 Contacto
+
+* **Ubicación:** Palma de Mallorca, España[cite: 1]
+* **LinkedIn:** [linkedin.com/in/alejandro-garcía-hernández-66975826](https://linkedin.com/in/alejandro-garcía-hernández-66975826)[cite: 1]
+* **Email:** alexgh1975@gmail.com[cite: 1]
 ### Innovación y "Easter Eggs" de Programación
 Inspirado en el clásico módulo cómico de Python (`import antigravity`), esta pestaña está dedicada a proyectos creativos, ideas fuera de la caja o conceptos avanzados.
 
