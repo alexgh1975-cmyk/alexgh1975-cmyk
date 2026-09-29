@@ -1,3 +1,4 @@
+<img width="896" height="1195" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/59434ec2-67dc-463e-b074-ba49516e3274" />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
