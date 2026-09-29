@@ -1,4 +1,3 @@
-<img width="896" height="1195" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/59434ec2-67dc-463e-b074-ba49516e3274" />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +11,7 @@
 # Perfil de Alejandro García
 <div align="center">
   
-<img width="148" height="200" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/a0c4309f-caad-47c7-ace7-6c237a72bf9a" />
+<img width="148" height="200" alt="image_6c7f34c4" src="https://github.com/user-attachments/assets/59434ec2-67dc-463e-b074-ba49516e3274" />
 
 https://web-personal-cloudflare-93t.pages.dev/
 
